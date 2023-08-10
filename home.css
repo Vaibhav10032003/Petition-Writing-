@@ -1,0 +1,48 @@
+.card{
+    opacity: 0.85;
+    margin: 2em;
+    background-color: black;
+    color: white;
+}
+
+.btn{
+    margin-left: 0.25em;
+}
+
+.dis{
+    border: 0.5mm solid black;
+    /* border-radius: 50%; */
+}
+
+h3{
+    margin: 0.25em;
+    /* display: inline; */
+}
+
+footer{
+    color: white;
+    background-color: #0d6efd;
+    margin: 1em;
+    padding: 1em;
+}
+
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('https://images.unsplash.com/photo-1486325212027-8081e485255e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnVpbGRpbmdzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    /* background-color: grey; */
+}
+
+#features{
+    color: white;
+}
+
+#instr{
+    color: white;
+}
+
+ul{
+    color: white; 
+}
