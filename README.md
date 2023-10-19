@@ -14,3 +14,9 @@ Login Page:
 
 Home Page:
 ![image](https://github.com/Vaibhav10032003/Petition-Writing-/assets/77986932/cbeb3f21-758a-4871-b810-774f3e2e94d9)
+
+![image](https://github.com/Vaibhav10032003/Petition-Writing-/assets/77986932/f1ca78c7-e267-4798-9b6e-1a1e61052973)
+
+![image](https://github.com/Vaibhav10032003/Petition-Writing-/assets/77986932/ecd20c1b-e365-4143-92c4-3242ae78cdb4)
+
+
